@@ -1,0 +1,9 @@
+{
+	"200": "Success",
+	"400": "Field is missing or invalid",
+	"405": "Action not allowed",
+	"409": "Duplicate",
+	"440": "Token Expire.",
+	"498": "Invalid Token.",
+	"500": "Server Error"
+}

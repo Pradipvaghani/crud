@@ -1,0 +1,22 @@
+{
+  "name": "node-trace",
+  "version": "1.0.0",
+  "description": "Nodejs performance monitor and remote debugger from Isometrik.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "async": "^2.6.0",
+    "csv-parse": "^2.0.0",
+    "lodash": "^4.17.4",
+    "request": "^2.83.0",
+    "tdigest": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Appscrip",
+  "license": "ISC"
+}

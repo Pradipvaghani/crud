@@ -1,0 +1,81 @@
+{
+	"200": "Success",
+	"201": "created success",
+	"204": "no content",
+	"400": "Field is missing or invalid",
+	"404": "404",
+	"405": "Action not allowed",
+	"409": "Duplicate",
+	"422": "Unprocessable Entity",
+	"440": "Token Expire.",
+	"498": "Invalid Token.",
+	"500": "Server Error",
+	"Field is missing or invalid": "Field is missing or invalid",
+	"language": {
+		"post": {
+			"field": {
+				"name": "Please enter name",
+				"dob": "Please Enter Dob",
+				"address": "Please Enter Address",
+				"description": "Please Enter description"
+			},
+			"success": {
+				"register": "User register successfully"
+			},
+			"error": {
+				"name": "language is required",
+				"imageUrl": "language code is required",
+				"duplicate": "language already register"
+			},
+			"description": "This api register new language",
+			"notes": "Api will provide language"
+		},
+		"get": {
+			"field": {
+				"statusInCode": "Please enter language name",
+				"name": "Please language code"
+			},
+			"success": {
+				"getdata": "get all language"
+			},
+			"description": "This api return all the language",
+			"notes": "Api will provide language"
+		},
+		"getsearch": {
+			"field": {
+				"_id": "Please enter id"
+			},
+			"success": {
+				"getdata": "get all language"
+			},
+			"description": "This api return all filter language by admin or user",
+			"notes": "Api will provide filter language"
+		},
+		"delete": {
+			"field": {
+				"_id": "Please enter id"
+			},
+			"success": {
+				"removedata": "language remove successfully"
+			},
+			"description": "This api remove language",
+			"notes": "Api will provide remove language"
+		},
+		"put": {
+			"field": {
+				"id": "Please enter id",
+				"name": "Please enter name",
+				"dob": "Please Enter Dob",
+				"address": "Please Enter Address",
+				"description": "Please Enter description"
+			},
+			"success": {
+				"updatedata": "language update successfully"
+			},
+			"description": "This api update language",
+			"notes": "Api will provide change in language"
+		}
+	},
+	"crud": "crud",
+	"Crud": "Crud"
+}
