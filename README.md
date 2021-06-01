@@ -1,6 +1,6 @@
 
 ## Location of API
-Project Folder -> Web -> Routes -> Crud -> Post,Put,Delete,Get API's
+Project Folder -> Web -> Routes -> Crud -> Post , Put, Delete, Get API's
 
 ## Introduction
 
