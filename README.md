@@ -2,7 +2,7 @@
 ## Introduction
 
 This is an API named CRUD framework.
-These docs describe how to use the dochat API. We hope you enjoy these docs, and please don't hesitate to file an issue if you see anything missing.
+I hope you understand these docs, and please don't hesitate to file an issue if you see anything missing.
 
 ## Library Used
 Some of library that have been used in the CRUD Api are mentioned below.
