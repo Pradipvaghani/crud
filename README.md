@@ -1,4 +1,7 @@
 
+## Location of API
+Project Folder -> Web -> Routes -> Crud -> Post,Put,Delete,Get API's
+
 ## Introduction
 
 This is an API named CRUD framework.
